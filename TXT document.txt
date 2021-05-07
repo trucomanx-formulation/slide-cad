@@ -1,0 +1,7 @@
+Título:  Estado da Arte de Diagnóstico Assistido por Computador Baseados em Imagens Médicas
+1)	Problema, Contexto e Demanda
+2)	Principais Tipos de Imagens/Exames que há demanda Hoje
+3)	Principais Técnicas Utilizadas
+4)	Principais Desafios:  bases de dados, máquinas e hardware para rodar experimentos, anotação de informações médicas, armazenamento e informações em nuvens
+5)	Principais benefícios da implantação de um sistema CAD: melhor adaptação para locais diferentes e novas patologias, auxílio à distância mais efetivo, melhora na preparação de equipes médicas e ensino da medicina, integração mais rápida com outros sistemas, mapeamento de diagnósticos e comparação mais simples de casos, integração mais rápida com a coleta de outros tipos de informação
+

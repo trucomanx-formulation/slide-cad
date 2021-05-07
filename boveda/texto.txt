@@ -1,0 +1,53 @@
+
+##############################################################################
+## Slide 1
+
+* O olho do especialista analiza imagenes (dia todo)
+    - Imagenenes 
+
+* Prob. mais de 8 horas de trablho que leva a pessoa ao límite
+    - Deficiencia de atenção ao final do dia.
+
+* De modo geral, quanto mais jovem (inexperiente) o médico, 
+mais tempo leva para realizar o diagnóstico de TC e a 
+taxa de acerto é relativamente baixa. 
+
+    - Tomografía axial computarizada pulmão
+    - [Doctor1 10 year exp] diagnosis time 3.623 min, 
+    - [Doctor2 10 year exp] diagnosis assisted by AI 0.744 min 
+    - produtivo mercado, Produtivo crisis (Pandemia) 
+    - eficiente
+    
+##############################################################################
+## Slide 2
+
+* Numa primeira visita revisaram 32 pacientes Aided vs. No Aided
+* Os mesmo 2 doutores  numa segunda visita revisarom
+    - [Doctor1 10 year exp] diagnosis accuracy 83.72% (precisão), 
+    - [Doctor2 10 year exp] diagnosis accuracy with AI 97.73% (precisão).
+    
+* Ciar um software que chame a atenção ao medico sobre algumas anomalias
+
+##############################################################################
+## Slide 4
+
+* Clasificadores:
+    - decision tree, [Arvores de decisão]
+    - K-nearest neighbor (KNN), [Vizinho mais próximo ]
+    - 3- naïve Bayes, [Clasificador bayesiano ingenuo]
+    - support vector machine (SVM), and [Máquina de vetores de suporte]
+    - ensemble method. 
+    - DNN - Redes neuronais profundas
+* Cuantas imagens? mientras mas melhor
+    - Training: 5576 images. DOI: https://doi.org/10.1117/12.2217752
+    - Training: 11940 slices. DOI: https://doi.org/10.1016/j.cmpb.2016.07.031
+    - Test: recrutamos 346 indivíduos.  DOI: 10.1111/1759-7714.12931 
+
+##############################################################################
+##############################################################################
+##############################################################################
+* algun dia el medico será remplazado?
+    - Cuando hago una aula en video estaria mal cobrar inf si la aula es suficiente.
+    - professor resolve casos particulares
+    - Medico resolve casos particulare (um trabalho feito a medida)
+

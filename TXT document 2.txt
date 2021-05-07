@@ -1,0 +1,9 @@
+Título: Sistemas de diagnóstico auxiliado por computador 
+
+* Aumento da produtividade e precisão com o uso de sistemas CAD.
+* Principais tipos de imagens analisadas.
+* Tipos de tecnologias utilizadas nos sistemas CAD.
+* Casos de estudo mais procurados na literatura.
+
+Resumo: Os profissionais da saúde dedicados à análise de imagens de tomografia, ressonâncias magnéticas, etc. têm prolongadas horas de trabalho que podem afetar seu rendimento na análise dos casos. 
+Os sistemas de diagnóstico auxiliado por computador têm demostrado ser uma importante ferramenta para o aumento da produtividade e precisão na toma de decisões. Assim, neste trabalho mostraremos alguns casos de uso e as principais tecnologias utilizadas na sua implementação.
